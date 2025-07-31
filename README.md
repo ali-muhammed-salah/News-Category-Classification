@@ -32,8 +32,8 @@ Develop a machine learning and neural network model to classify **news articles*
 * 📊 Pandas  
 * 🔡 re (Regular Expressions)  
 * ✂️ NLTK  
-* 🔢 NumPy  
-* 📈 Matplotlib & Seaborn  
+* 🔢 Collections  
+* 📈 Matplotlib  
 * ☁️ WordCloud  
 * 🤖 Scikit-learn  
 * 🔥 XGBoost  
@@ -52,7 +52,7 @@ Develop a machine learning and neural network model to classify **news articles*
 
 ### ✨ **2. Feature Extraction**
 * Used **TF-IDF Vectorizer** for classical models
-* * Used **Label Encoder** and **One Hot Encoder** for neural networks  
+* Used **Label Encoder** and **One Hot Encoder** for neural networks  
 ---
 
 ### 🧠 **3. Model Building**
