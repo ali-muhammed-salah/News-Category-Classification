@@ -10,7 +10,7 @@
 
 ## 🎯 **Objective**
 
-Develop a machine learning and neural network model to classify **news articles** into **multiple categories** using NLP and deep learning techniques.
+Build machine learning and neural network models to classify **news articles** into **multiple categories** using NLP and deep learning techniques.
 
 ---
 
@@ -72,14 +72,12 @@ Develop a machine learning and neural network model to classify **news articles*
 
 ### 📊 **4. Model Evaluation**
 
-* Used metrics like **Accuracy**, **Confusion Matrix**, and **Classification Report**  
+* Used metrics like **Accuracy**, **Confusion Matrix** and **Classification Report**  
 * Tracked **training/validation loss** and accuracy curves  
 
 ---
 
-### 🎨 **Visualizations**
-
-#### ✅ WordCloud:
+## 🎨 **Visualizations**
 * Generated WordCloud showing the **most frequent words** in news articles.
 
 ---
