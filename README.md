@@ -22,7 +22,7 @@ Develop a machine learning and neural network model to classify **news articles*
   * `DESCRIPTION` (News summary)
   * `CATEGORY` (Target class)
 
-* **Classes:** Multiple news topics (Politics, Sports, business, Science Technology.)
+* **Classes:** Multiple news topics (Politics, Sports, business, Science Technology)
 
 ---
 
